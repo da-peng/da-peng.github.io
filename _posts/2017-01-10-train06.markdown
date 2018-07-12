@@ -1,0 +1,11 @@
+---
+layout: null
+title: 5月 2015 - 10月 2015
+subtitle: 光荣之路
+image: "img/timeline/6.jpeg"
+href: http://www.gloryroad.cn/ 
+---
+
+11个月的测试开发班（Python）
+<br>
+感谢悟空老师，吴老

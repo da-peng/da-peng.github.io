@@ -1,0 +1,11 @@
+---
+layout: null
+title: 6月 2012 - 5月 2014
+subtitle: 纬创资通（中山）
+image: "img/timeline/1.jpeg"
+href: https://www.wistron.com/
+---
+
+毕业于电子科技大学中山学院
+<br>
+QA（PC一体机）

@@ -1,0 +1,12 @@
+---
+layout: null
+title: 11月 2017 - 至今
+subtitle: 千聊
+image: "img/timeline/7.jpeg"
+href: https://www.qlchat.com/
+---
+
+
+测试经理（7人）
+<br>
+测试开发

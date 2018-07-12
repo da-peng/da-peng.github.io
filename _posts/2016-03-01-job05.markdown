@@ -1,0 +1,14 @@
+---
+layout: null
+title: 3月 2015 - 11月 2017
+subtitle: 悦跑圈
+image: "img/timeline/5.png"
+href: http://www.thejoyrun.com/
+---
+
+白盒测试
+测试开发
+<br>
+测试主管（5人）
+<br>
+感谢东东

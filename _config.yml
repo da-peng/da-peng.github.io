@@ -1,14 +1,14 @@
 url: http://kirbyt.github.io
-baseurl: /timeline-jekyll-theme
+baseurl: 
 
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
-keywords: "jekyll, theme"
+title: 简历
+description: "Da Peng's Blog "
+keywords: "Resume,Blog"
 google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
-career-img: "img/timeline/default.jpg"
+career-img: "img/timeline/default.jpeg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]

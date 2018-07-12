@@ -1,0 +1,11 @@
+---
+layout: null
+title: 5月 2014 - 10月 2014
+subtitle: 广州华工信息软件有限公司
+image: "img/timeline/2.jpg"
+href: http://www.hgsoft.com.cn/index
+---
+
+轨道交通事业部
+<br>
+SQA（软件测试）
