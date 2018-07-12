@@ -6,7 +6,7 @@ title: 简历
 description: "Da Peng's Blog "
 keywords: "Resume,Blog"
 google-tracking-id:
-jekyll-minnifiter:
+jekyll-minifier:
   exclude: '*.html'
 # Career Settings
 # Default career thumbnail image.

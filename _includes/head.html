@@ -9,30 +9,11 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <title>{{ site.title }} {% if page.title %} | {{ page.title }}{% endif %}</title>
+
     {% bundle %}
     - {{ site.baseurl }}/css/all.css
     - {{ site.baseurl }}/font-awesome/css/font-awesome.min.css
     {% endbundle %}
-
-    <!-- {% bundle %}
-    - {{ site.baseurl }}/css/bootstrap.min.css
-    - {{ site.baseurl }}/css/grayscale.css
-    - {{ site.baseurl }}/css/timeline.css
-    - {{ site.baseurl }}/font-awesome/css/font-awesome.min.css
-    {% endbundle %} -->
-    <!-- <link href="{% bundle %}
-    - /css/*.css
-    {% endbundle %}" rel="stylesheet"> -->
-
-    <!-- Bootstrap Core CSS -->
-    <!-- <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet"> -->
-
-    <!-- Custom CSS -->
-    <!-- <link href="{{ site.baseurl }}/css/grayscale.css" rel="stylesheet"> -->
-    <!-- <link href="{{ site.baseurl }}/css/timeline.css" rel="stylesheet"> -->
-
-    <!-- Custom Fonts -->
-    <!-- <link href="{{ site.baseurl }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
     <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
