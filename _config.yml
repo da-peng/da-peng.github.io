@@ -27,5 +27,3 @@ jekyll-minifier:
   
 plugins:
   - jekyll-minifier
-
-
