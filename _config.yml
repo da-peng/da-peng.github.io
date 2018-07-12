@@ -6,9 +6,26 @@ title: 简历
 description: "Da Peng's Blog "
 keywords: "Resume,Blog"
 google-tracking-id:
-
+jekyll-minnifiter:
+  exclude: '*.html'
 # Career Settings
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpeg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+asset_bundler:
+  compress:
+    js: 'closure'
+    css: 'yui'
+  base_path: /bundles
+  bundle_name: 'all'
+
+  
+jekyll-minifier:
+  compress_css: false
+  compress_javascript: false
+  
+plugins:
+  - jekyll-minifier
+
+
