@@ -1,11 +1,13 @@
 ---
 layout: null
-title: 5月 2014 - 10月 2014
-subtitle: 广州华工信息软件有限公司
-image: "img/timeline/2.jpg"
-href: http://www.hgsoft.com.cn/index
+title: 5月 2014 - 3月 2015
+subtitle: 软通动力
+image: "img/timeline/3.jpeg"
+href: http://www.isoftstone.com/
 ---
 
-轨道交通事业部
+QA组长 (3人)
 <br>
-SQA（软件测试）
+性能测试
+<br>
+Android开发
