@@ -7,6 +7,6 @@ href: http://pc.qlchat.com/
 ---
 
 
-测试经理（7人）
-<br>
 测试开发
+<br>
+测试主管（7人）
